@@ -1,7 +1,7 @@
 trigger:
   branches:
     include:
-    - refs/heads/dev/rel
+    - dev/rel
 jobs:
 - job: Job_1
   displayName: Agent job 1
