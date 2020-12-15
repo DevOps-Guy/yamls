@@ -1,6 +1,3 @@
-schedules:
-- cron: '45 21 1-7 * 4'
-  displayName: schedules
 trigger:
   branches:
     include:
