@@ -1,7 +1,10 @@
-trigger:
+trigger: none
+
+pr: 
   branches:
     include:
     - main
+
 jobs:
 - job: Job_1
   displayName: Agent job 1
