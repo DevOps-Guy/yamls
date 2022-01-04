@@ -1,8 +1,1 @@
-# yamls
-for yaml repross
-creating branch
-dev/rels
-mainbranchedits
-1
-2
-Testing the Azure Boards 1
+[![Board Status](https://raman9900.visualstudio.com/28237a48-d5b7-427a-92cb-ac8c97c703a0/2806a54b-3ee6-46cb-8387-d36d23df5e0a/_apis/work/boardbadge/edca2a42-369e-46dd-a798-4cfaa5b9577f?columnOptions=1)](https://raman9900.visualstudio.com/28237a48-d5b7-427a-92cb-ac8c97c703a0/_boards/board/t/2806a54b-3ee6-46cb-8387-d36d23df5e0a/Microsoft.FeatureCategory/)
